@@ -1,0 +1,1 @@
+# Podsumowanie_THM_Linux_Privilege_Escalation_task_12
